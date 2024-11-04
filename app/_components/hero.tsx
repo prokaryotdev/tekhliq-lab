@@ -4,7 +4,7 @@ import { ChevronRight } from "lucide-react";
 
 const Hero = () => {
   return (
-    <div className="relative overflow-hidden border border-white/10 md:border-0">
+    <div className="relative overflow-hidden border-b border-white/10 md:border-0">
       <div className="relative z-10 m-auto max-w-[1100px] px-4 py-[110px] text-center md:py-[90px] xl:px-0">
         <Link
           href="/our-conf"

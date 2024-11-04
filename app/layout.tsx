@@ -17,11 +17,11 @@ export const metadata: Metadata = {
     title: "Harness AI with Custom LLM Applications | Tekhliq Labs",
     description:
       "Unlock the potential of AI with Tekhliq Labs. We specialize in custom LLM applications and AI agent workflows tailored to your organization's needs.",
-    url: "https://tekhliqlab.vercel.app/",
+    url: "https://tekhliq-lab.vercel.app/",
     siteName: "Tekhliq Labs",
     images: [
       {
-        url: "/og.png",
+        url: "/open-graph.png",
         alt: "Tekhliq Labs AI Solutions",
       },
     ],
